@@ -1,4 +1,4 @@
-const eN="6 Jun 2024 10:00 PM"
+const eN="6 Jun 2025 10:00 PM"
 document.getElementById("end-date").innerText=eN
 const inputs=document.querySelectorAll("input")
 
